@@ -34,15 +34,6 @@ I kept it **clean, responsive, and user-friendly** so it looks great on desktop,
 
 ---
 
-## 📸 A Quick Peek  
-
-| Landing Page | Portfolio Section | Pricing Plans |
-|--------------|------------------|---------------|
-| ![Hero](./images/demo-hero.png) | ![Portfolio](./images/demo-portfolio.png) | ![Pricing](./images/demo-pricing.png) |
-
-*(Screenshots included just for preview – you can always run the live demo above)*  
-
----
 
 ## 🚀 How to run locally  
 
