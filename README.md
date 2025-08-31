@@ -1,7 +1,51 @@
-# Agency-Website
-A modern, responsive agency website showcasing services and team with Clean UI and interactive animations. It is built using HTML, CSS, JS for optimal performance and user experience
+# 🌐 Agency Website  
 
+👉 Live Demo: [sarveshbait.github.io/Agency-Website](https://sarveshbait.github.io/Agency-Website/)  
 
-<H2>Visit My Agency Website </H2>
+---
 
-<a href="https://sarveshbait.github.io/Agency-Website/">Agency Website</a>
+## 👋 Hi there!  
+
+This project is a **modern agency landing page** I built to practice and showcase my **front-end development skills**.  
+Think of it as a creative space where design meets code.  
+
+I kept it **clean, responsive, and user-friendly** so it looks great on desktop, tablet, and mobile.  
+
+---
+
+## ✨ What’s inside?  
+
+- 🖼️ **Hero Section** with smooth layout & call to action  
+- 📑 **About & Services** – explain what the agency does  
+- 🎨 **Portfolio Grid** – filterable projects (design, branding, motion, illustration)  
+- 💰 **Pricing Plans** – Free, Design, and Design+Code  
+- 👥 **Our Team** – friendly faces with role descriptions  
+- ❓ **FAQs** – interactive expand/collapse answers  
+- 📩 **Contact Section** – easy to reach out  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **HTML5** – structured markup  
+- **CSS3** – custom styling + responsiveness  
+- **JavaScript** – interactivity (like portfolio filter, FAQ toggle)  
+- **GitHub Pages** – for free hosting  
+
+---
+
+## 📸 A Quick Peek  
+
+| Landing Page | Portfolio Section | Pricing Plans |
+|--------------|------------------|---------------|
+| ![Hero](./images/demo-hero.png) | ![Portfolio](./images/demo-portfolio.png) | ![Pricing](./images/demo-pricing.png) |
+
+*(Screenshots included just for preview – you can always run the live demo above)*  
+
+---
+
+## 🚀 How to run locally  
+
+1. Clone this repo  
+   ```bash
+   git clone https://github.com/SarveshBait/Agency-Website.git
