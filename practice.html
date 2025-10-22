@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        section {
+    padding: 3rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+        .brands {
+            overflow: hidden;
+            display: flex;
+            gap: 10rem;
+        }
+        .brands .brands-container {
+            display: flex;
+            gap: 10rem;
+            animation: brands 10s linear infinite;
+        }
+        .brands .brands-container img {
+            height: 8rem;
+            width: 10rem;
+        }
+@keyframes brands {
+    0% {
+        transform: translateX(0%);
+    }
+    0% {
+        transform: translateX(100%);
+    }
+}
+
+.brands:hover .brands-container {
+    animation-play-state: paused;
+}
+ 
+    </style>
+</head>
+<body>
+    
+    <section class="brands">
+        <div class="brands-container">
+            <img src="../../Agency Website/Images/designer.svg" alt="">
+            <img src="../../Agency Website/Images/header1.svg" alt="">
+            <img src="../../Agency Website/Images/section1.svg" alt="">
+            <img src="../../Agency Website/Images/designer.svg" alt="">
+            <img src="../../Agency Website/Images/header1.svg" alt="">
+        </div>
+        <div class="brands-container">
+            <img src="../../Agency Website/Images/section1.svg" alt="">
+            <img src="../../Agency Website/Images/designer.svg" alt="">
+            <img src="../../Agency Website/Images/header1.svg" alt="">
+            <img src="../../Agency Website/Images/section1.svg" alt="">
+            <img src="../../Agency Website/Images/designer.svg" alt="">
+        </div>
+
+    </section>
+</body>
+</html>
